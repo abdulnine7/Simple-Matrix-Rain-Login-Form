@@ -9,4 +9,4 @@ Here matrix rain code in matrix.js is taken from [thecodeplayer.com](http://thec
 
 ## Screenshot
 
-![Imgur](https://i.imgur.com/Prgjksa.gif)
+![Imgur](https://i.imgur.com/hDpkyEx.gif)
